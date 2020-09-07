@@ -242,11 +242,3 @@
 - [陌陌风控系统](https://github.com/momosecurity/aswan)：静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 
 - [Drools](https://www.drools.org)：基于java的功能强大的开源规则引擎。
-
-------
-
-### 学习交流
-
-专注于网络安全，欢迎关注个人微信公众号：Bypass--，每周原创一篇技术干货。
-
-![](https://bypass007.github.io/Emergency-Response-Notes/Summary/image/sum-erweima.jpg)
